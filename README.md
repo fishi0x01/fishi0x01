@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 <!--
+<p align="center">
+  <img src="https://github.com/fishi0x01/fishi0x01/blob/master/images/Game_of_life_animated_glider_2.gif?raw=true" />
+<em><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Game of Life</a></em>
+</p>
+
 **fishi0x01/fishi0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
